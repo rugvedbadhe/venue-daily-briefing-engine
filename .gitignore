@@ -17,7 +17,7 @@ env/
 .streamlit/secrets.toml
 
 # Data — exclude if you don't want history persisted in repo
-# data/history.csv  ← leave this commented, you WANT history.csv in repo
+# data/history.csv  
 
 # OS
 .DS_Store
